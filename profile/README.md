@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there public 👋
 
 ### A short introduction
 This organization is about...
